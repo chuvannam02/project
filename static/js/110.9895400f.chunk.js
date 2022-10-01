@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkapp=self.webpackChunkapp||[]).push([[110],{772:function(e,n,r){r.r(n),r.d(n,{default:function(){return t}});var u=r(184);function t(){return(0,u.jsx)("div",{className:"other",children:"Hello world!"})}}}]);
+//# sourceMappingURL=110.9895400f.chunk.js.map
