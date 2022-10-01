@@ -1,0 +1,24 @@
+.nav_link {
+    ul {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 20px;
+        height: 20vh;
+        background-color: #20232a;
+        li {
+            list-style: none;
+            display: flex;
+            color: white;
+            &:hover:not(:focus) {
+                color: #61dafb;
+            }
+            &:active {
+                padding: 18px;
+                max-height: max-content;
+                border-bottom: 5px solid rgb(97 218 251);
+                background-color: rgb(153, 152, 152);
+            }
+        }
+    }
+}
